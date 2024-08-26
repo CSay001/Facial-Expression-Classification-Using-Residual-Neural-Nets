@@ -10,3 +10,5 @@ The project covers:
 *Performance Evaluation:* Assess the performance of the trained CNN models through various key performance indicators (KPIs). The repository includes scripts and tools for evaluating model accuracy, robustness, and generalization to ensure effective results.
 #
 Feel free to check the whole cource here: https://www.coursera.org/projects/facial-expression-classification
+#
+The data can be downloaded from the google drive link: https://drive.google.com/file/d/1sBcF0JUXSE_2FjErdtryrMaiK_3H3wfu/view?usp=sharing
